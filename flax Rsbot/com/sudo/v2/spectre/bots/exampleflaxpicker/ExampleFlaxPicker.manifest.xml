@@ -1,0 +1,30 @@
+<manifest>
+    <main-class>com.sudo.v2.spectre.bots.exampleflaxpicker.ExampleFlaxPicker</main-class>
+    <name>ExampleFlaxPicker</name>
+    <tag-line>Example bot for RuneMate Spectre</tag-line>
+    <description>This is an open source bot with the intention of being a free reference for RuneMate Spectre bot development.</description>
+    <version>1.0.0</version>
+    <compatibility>
+        <game-type>RS3</game-type>
+    </compatibility>
+    <categories>
+        <category>FARMING</category>
+    </categories>
+    <internal-id>exampleflaxpicker</internal-id>
+    <hidden>false</hidden> <!--If you need to hide it from the bot store for maintenance-->
+    <access>public</access>
+    <tags>
+        <tag>example</tag>
+        <tag>open</tag>
+        <tag>source</tag>
+        <tag>spectre</tag>
+        <tag>tutorial</tag>
+        <tag>sudo</tag>
+        <tag>flax</tag>
+    </tags>
+    <resources>
+        <resource>com/sudo/v2/spectre/bots/exampleflaxpicker/ui/FlaxGUI.fxml</resource>
+        <resource>com/sudo/v2/spectre/bots/exampleflaxpicker/ui/InfoUI.fxml</resource>
+    </resources>
+    <open-source>true</open-source>
+</manifest>
